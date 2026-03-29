@@ -51,14 +51,15 @@ SmartStudyPlanner/
 │   │   └── StudySession.java
 │   └── service/
 │       └── Scheduler.java
+
 What I Learned
 Implemented Object-Oriented Programming concepts
 Built a scheduling algorithm
 Used Java Collections and Comparator for sorting
 Applied date handling using LocalDate
 Improved problem-solving and logic-building skills
-Author
 
-Akankshya Dibyadarsinee Rout
-24BAI10724
+Author
+Pia Anoop B
+24BAI10292
 B.Tech (AIML) | VIT Bhopal University
